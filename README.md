@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/Pixovia/Group27_cicd/_apis/build/status%2FGtm03-Insider.pipelines-java?branchName=main)](https://dev.azure.com/Pixovia/Group27_cicd/_build/latest?definitionId=8&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
